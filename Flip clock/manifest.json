@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Clock Extension",
+    "description": "A clock that appears when opening a new tab",
+    "version": "1.0",
+    "chrome_url_overrides": {
+      "newtab": "index.html"
+    } 
+  }
+  
