@@ -55,8 +55,12 @@ https://github.com/MIHIR2006/Clock-Extensions.git
 
 - A retro-style flip clock that displays time in a unique and visually appealing way. It mimics the feel of classic flip clocks and adds a touch of nostalgia to your browser experience.
 
+![Flip Clock](https://github.com/MIHIR2006/Clock-Extensions/blob/main/Flip.png)
+
 ### Grid Clock:
 
 - A modern and minimalist clock that uses a grid-like layout to show the time. The clean design ensures that you focus on time without distractions.
-   
+
+![Grid Clock](https://github.com/MIHIR2006/Clock-Extensions/blob/main/Grid.png)
+
 
